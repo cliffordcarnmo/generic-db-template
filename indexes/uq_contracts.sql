@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX id_UNIQUE ON contracts(id ASC);

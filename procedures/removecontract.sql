@@ -1,0 +1,6 @@
+DROP PROCEDURE IF EXISTS removecontract;
+DELIMITER $$
+CREATE PROCEDURE removecontract(p_contracts_id CHAR(36))
+BEGIN
+END$$
+DELIMITER ;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX id_UNIQUE ON customers(id ASC);

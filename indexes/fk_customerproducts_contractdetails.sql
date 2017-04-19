@@ -1,0 +1,1 @@
+CREATE INDEX fk_customerproducts_contractdetails ON customerproducts(contractdetails_id ASC);

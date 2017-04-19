@@ -1,0 +1,6 @@
+DROP PROCEDURE IF EXISTS removecustomer;
+DELIMITER $$
+CREATE PROCEDURE removecustomer(p_customers_id CHAR(36))
+BEGIN
+END$$
+DELIMITER ;
